@@ -77,13 +77,6 @@ form label {
     font-size: 18px;
 }
 
-form label {
-display: block;
-color:#0c0c0c99;
-margin-bottom: 10px;
-font-size: 18px;
-}
-
 form input[type="text"],
 form input[type="email"],
 form input[type="password"] {
@@ -92,7 +85,7 @@ form input[type="password"] {
     margin-bottom: 15px;
     border: none;
     border-radius: 5px;
-    font-size:16px ;
+    font-size:16px;
 }
 
 form input[type="submit"] {
